@@ -14,4 +14,8 @@ def beolvasas():
     f.close()
 
 
+
+
+
+
 main()
