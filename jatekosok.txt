@@ -1,51 +1,51 @@
 Név; Nem; Származás; Születési év; Nyert mérkőzések; Vesztett mérkőzések
-Wang Chuqin; Férfi; Kína; 2000; 488; 96
-Xiaoxin Yang; Nő; Kína; 1988; 319; 164
-Fan Zhendong; Férfi; Kína; 1997; 442; 85
-Ma Long; Férfi; Kína; 1988; 382; 72
-Wang Manyu; Nő; Kína; 1999; 309; 70
-Liang Jingkun; Férfi; Kína; 1996; 213; 80
-Felix Lebrun; Férfi; Franciaország; 2006; 112; 50
-Sun Yinsha; Nő; Kína; 2000; 201; 76
-Lin Gaoyuan; Férfi; Kína; 1995; 227; 85
-Lin Yun-Ju; Férfi; Tajvan; 2001; 220; 113
-Hugo Calderano; Férfi; Brazília; 1996; 206; 92
-Wang Yidi; Nő; Kína; 1997; 149; 64;
-Tomokazu Harimoto; Férfi; Japán; 2003; 252; 97 
-Dang Qiu; Férfi; Németország; 1996; 230; 99
-Dimitrij Ovtcharoc; Férfi; Ukrajna; 1988; 376; 134
-Anton Kallberg; Férfi; Svédország; 1997; 163; 70
-Chen Meng; Nő; Kína; 1994; 321; 124
-Hina Hayata; Nő; Japán; 2000; 279; 120
-Omar Assar; Férfi; Egyiptom; 1991; 90; 123
-Marcos Freitas; Férfi; Portugália; 1988; 230; 99
-Lin Shidong; Férfi; Kína; 2005; 145; 49
-Chen Xingtong; Nő; Kína; 1997; 176; 76
-Patrick Franziska; Férfi; Németország; 1992; 368; 159
-Darko Jorgic; Férfi; Szlovénia; 1998; 181; 120
-Shin Yubin; Nő; Dél-Korea; 2004; 181; 78
-Truls Moregard; Férfi; Svédország; 2002; 122; 53
-Quadri Aruna; Férfi; Nigéria; 1988; 196; 85
-Jang Woojin; Férfi; Dél-Korea; 1995; 281; 121
-Miwa Harimoto; Nő; Japán; 2008; 94; 37
-Shunsuke Togami; Férfi; Japán; 2001; 118; 51
-Simon Gauzy; Férfi; Franciaország; 1994; 292; 125
-Mattias Falck; Férfi; Svédország; 1991; 372; 160
-Zhou Qihao; Férfi; Kína; 1997; 71; 31
-Bernadette Szocs; Nő; Románia / Magyarország; 1995; 293; 128
-Lim Jonghoon; Férfi; Dél-Korea; 1997; 229; 98
-Timo Boll; Férfi; Németország; 1981; 278; 119
-Mima Ito; Nő; Japán; 2000; 386; 165
-Jonathan Groth; Férfi; Dánia; 1992; 377; 161
-Anders Lind; Férfi; Dánia; 1998; 324; 112
-Kao Cheng-Jui; Férfi; Tajvan; 2004; 224; 97
-Lee Sang Su; Férfi; Dél-Korea; 1990; 294; 127
-Adriana Diaz; Nő; Puerto Ricó; 2000; 208; 90
-Cheng I-Ching; Nő; Tajvan; 1992; 302; 130
-Cho Daeseong; Férfi; Dél-Korea; 2002; 190; 81
-Alexis Lebrun; Férfi; Franciaország; 2003; 122; 53
-Miu Hirano; Nő; Japán; 2000; 188; 81
-Chuang Chih-Yuan; Férfi; Tajvan; 1981; 397; 170
-Sora Matsushima; Férfi; Japán; 2007; 103; 45
-Nina Mittelham; Nő; Németország; 1996; 294; 127
-Jeon Jihee; Nő; Dél-Korea; 1992; 253; 123
+Wang Chuqin;Férfi;Kína;2000;492;102
+Xiaoxin Yang;Nő;Kína;1988;323;170
+Fan Zhendong;Férfi;Kína;1997;446;91
+Ma Long;Férfi;Kína;1988;386;78
+Wang Manyu;Nő;Kína;1999;313;76
+Liang Jingkun;Férfi;Kína;1996;217;86
+Felix Lebrun;Férfi;Franciaország;2006;116;56
+Sun Yinsha;Nő;Kína;2000;205;82
+Lin Gaoyuan;Férfi;Kína;1995;231;91
+Lin Yun-Ju;Férfi;Tajvan;2001;224;119
+Hugo Calderano;Férfi;Brazília;1996;210;98
+Wang Yidi;Nő;Kína;1997;153;70
+Tomokazu Harimoto;Férfi;Japán;2003;256;103
+Dang Qiu;Férfi;Németország;1996;234;105
+Dimitrij Ovtcharoc;Férfi;Ukrajna;1988;380;140
+Anton Kallberg;Férfi;Svédország;1997;167;76
+Chen Meng;Nő;Kína;1994;325;130
+Hina Hayata;Nő;Japán;2000;283;126
+Omar Assar;Férfi;Egyiptom;1991;94;129
+Marcos Freitas;Férfi;Portugália;1988;234;105
+Lin Shidong;Férfi;Kína;2005;149;55
+Chen Xingtong;Nő;Kína;1997;180;82
+Patrick Franziska;Férfi;Németország;1992;372;165
+Darko Jorgic;Férfi;Szlovénia;1998;185;126
+Shin Yubin;Nő;DélKorea;2004;185;84
+Truls Moregard;Férfi;Svédország;2002;126;59
+Quadri Aruna;Férfi;Nigéria;1988;200;91
+Jang Woojin;Férfi;DélKorea;1995;285;127
+Miwa Harimoto;Nő;Japán;2008;98;43
+Shunsuke Togami;Férfi;Japán;2001;122;57
+Simon Gauzy;Férfi;Franciaország;1994;296;131
+Mattias Falck;Férfi;Svédország;1991;376;166
+Zhou Qihao;Férfi;Kína;1997;75;37
+Bernadette Szocs;Nő;Románia/Magyarország;1995;297;134
+Lim Jonghoon;Férfi;DélKorea;1997;233;104
+Timo Boll;Férfi;Németország;1981;282;125
+Mima Ito;Nő;Japán;2000;390;171
+Jonathan Groth;Férfi;Dánia;1992;381;167
+Anders Lind;Férfi;Dánia;1998;328;118
+Kao Cheng-Jui;Férfi;Tajvan;2004;228;103
+Lee Sang Su;Férfi;DélKorea;1990;298;133
+Adriana Diaz;Nő;PuertoRicó;2000;212;96
+Cheng I-Ching;Nő;Tajvan;1992;306;136
+Cho Daeseong;Férfi;DélKorea;2002;194;87
+Alexis Lebrun;Férfi;Franciaország;2003;126;59
+Miu Hirano;Nő;Japán;2000;192;87
+Chuang Chih-Yuan;Férfi;Tajvan;1981;401;176
+Sora Matsushima;Férfi;Japán;2007;107;51
+Nina Mittelham;Nő;Németország;1996;298;133
+Jeon Jihee;Nő;DélKorea;1992;257;129
