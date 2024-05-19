@@ -4,38 +4,47 @@ jatekosok: list[Jatekos] = []
 
 def main():
     beolvasas() 
-    print(f'2. feladat: A fájlban {len(jatekosok)} játékos adata szerepel.')
+    print(f'3. feladat: A fájlban {len(jatekosok)} játékos adata szerepel.')
     noi_jatekosok()
-    jatekos_kereses()
+    legtobb_ny()
+    legfiatalabb()
+    vesztes()
     jatekosok_szama()
-    nyeres()
     uj_stat()
 
 def noi_jatekosok():
-    print('\nA női játékosok:')
+    print('\n4. feladat: A női játékosok:')
     for j in jatekosok: 
-        if j.nem == 'Nő':
+        if j.nem == 'Nő':       
             print(f'\t{j.nev}')
 
-def jatekos_kereses():
-    jatekos = input('\nKérem a keresett játékos nevét: ')
-    i = 0
-    while i < len(jatekosok) and jatekos != jatekosok[i].nev:
-        i += 1
-    if i < len(jatekosok):
-        print(f'\t{jatekosok[i].nev} {jatekosok[i].nyert} versenyt nyert.')
-    else: 
-        print('\tNincs ilyen versenyző!')
-
-def nyeres():
-    tnyeres = int(input('\nÍrjon be egy számot: '))
-    print(f'{tnyeres}-nél/nál több mérkőzést nyert játékosok:')
+def legtobb_ny():
+    print('\n5. feladat: Legtöbb mérkőzést nyert játékos: ')
+    legtobb_ny = jatekosok[0]
     for j in jatekosok:
-        if tnyeres < j.nyert:
+        if j.nyert > legtobb_ny.nyert:
+            legtobb_ny = j
+    print(f'\t{legtobb_ny.nev} {legtobb_ny.nyert}')
+
+def legfiatalabb():
+    legfiatalabb = jatekosok[0]
+    for j in jatekosok:
+        if legfiatalabb.szuletes < j.szuletes:
+            legfiatalabb = j
+    print(f'\n6. feladat: A legfiatalabb játékos {legfiatalabb.nev}, {2024 - legfiatalabb.szuletes} éves')
+
+def vesztes():
+    tveszt = int(input('\n7. feladat: Írjon be egy számot: '))
+    print(f'{tveszt}-nél/nál több mérkőzést vesztett játékosok:')
+    for j in jatekosok:
+        if tveszt < j.vesztett:
             print(f'\t{j.nev}')
+    if tveszt > j.vesztett:
+        print('\tNem található ilyen játékos')  
+            
 
 def jatekosok_szama():
-    print('\nJátékosok száma más országokban')
+    print('\n8. feladat: Játékosok száma más országokban')
     orszagok = {}
     for j in jatekosok:
         orszag = j.szarmazas
@@ -47,7 +56,7 @@ def jatekosok_szama():
         print(f'\t{orszag}: {jatekosok_szama} fő')
       
 def uj_stat():
-    jatekos = input('\nKérem a keresett játékos nevét: ')
+    jatekos = input('\n9. feladat: Kérem a keresett játékos nevét: ')
     i = 0
     while i < len(jatekosok) and jatekos != jatekosok[i].nev:
         i += 1
