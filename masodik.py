@@ -4,9 +4,7 @@ def main():
     belepesek['peti__'] = 8
     belepesek['XferiX'] = 7
     belepesek['_bela_'] = 5
-    jelszavak = []
-    for i in range(1,10):
-        jelszavak.append(str(i))
+    jelszavak = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 
     felhnev = input('Adja meg a felhasználónevét: ')
     jelszo = input('Adja meg a jelszavát (1-9 közé eső szám): ')

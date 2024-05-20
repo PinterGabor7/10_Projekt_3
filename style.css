@@ -1,5 +1,4 @@
 body{
-    background-image: url("img/bg.png");
     background-attachment: fixed;
     background-repeat: space;
 }
@@ -7,7 +6,6 @@ body{
 h2{    
     margin-top: 10px;   
     color: #416618;
-    border-color: #416618;
     border-left: 3px dotted #416618;
     /* border-left-width: 3px;
     border-left-style: dotted; */
@@ -18,47 +16,28 @@ h2{
 h3{    
     font-weight: bold;
     color: #894f3b;    
-    text-align: center;
     font-size: 1.3rem;
     letter-spacing: 1px;
 }
 
-
-
-td,th{
-    text-align: center;
-}
 
 thead>tr:first-child{    
     letter-spacing: 2px;    
     text-transform: uppercase;
 }
 
-.navbar{
-    background-color: #fd8800;
-}
 
 p{
-    text-align: justify;
     text-indent: 15px;
 }
 
 .jatekos{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
     width: 50%;
-}
-
-td, th{
-    border: 1px solid black;
-    padding: 5px;
 }
 
 .majoros_bence{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
     width: 75%;
 }
 
@@ -68,9 +47,7 @@ table{
     height: 100%;
 }
 h1{
-    text-align: center;
     margin: 15px;
     font-size: 50pt;
     color: #894f3b;
-    text-decoration: underline;
 }
